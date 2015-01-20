@@ -1,19 +1,58 @@
 # factory-usine-commons
+
+
+
 ce qu'il faut pour faire une usine avec les données, matériel, et utilités, a licences gnu, mit, creativecommons, et ces choses là,   
 
-to make a factory with the data, material and utility, of all licences commons, and other 
 
-commons  
 
-n,utilisez ici que pour des activités honnêtes et normales, 
-please only use this for honest and normal activities, 
+licences 'commons '
+soit sans droits, brevets, ou retributions, 
 
-vous pouvez faire des ,
-you can make 
-wikis , issues , labels , 
+;
+
+n'utilisez ici que pour des activités honnêtes et normales, 
+
+
+vous pouvez faire des , wikis , issues , labels ,
 
 si vous avez des competences ou etes professionnels
-de une specialite et que vous voulezplacer une choses en licence commons
+
+d'une specialite et que vous voulez placer une choses en licence ' commons '
+
+vous permetrez a ceux qui veulent faire des usines de pouvoir le faire en licences 'commons '
+
+;
+ 
+ automation   
+ 
+ bulding code  
+ 
+ engineering  
+ 
+ regulations
+ 
+ ;
+ 
+vous pouvez vous faire connaitre vous et vos services, et faire une portion     d'ici , 
+ 
+;    
+ 
+;    
+english 
+ 
+to make a factory with the data, material and utility, of all licences commons, and other 
+
+
+you can use the things here only for honnest and normal activities
+
+;
+
+you can make 
+
+wikis , issues , labels , blog , forums , links to patents,  
+
+;
 
 automation
  
@@ -23,7 +62,7 @@ engineering
 
 regulations
 
-it can bring you noticed, and to your office, and it brings a part of all the things,
+ you can get noticed, you and your services, and it brings a part of all the things needed here,
 
 ;
 
@@ -35,6 +74,4 @@ it can bring you noticed, and to your office, and it brings a part of all the th
 
 
 
-
-trouvons ce que nous produirons
-let' s find what we will produce
+ 
